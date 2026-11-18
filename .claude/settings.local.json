@@ -11,5 +11,8 @@
       "Bash(find:*)"
     ],
     "deny": []
+  },
+  "enabledPlugins": {
+    "everyday@joineveryday-claude-plugin-marketplace": false
   }
 }
